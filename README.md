@@ -31,6 +31,19 @@
   <p>sjfh is <b>NOT</b> a programmer.</p> -->
 
 <!--START_SECTION:wakatime-->
+
+```typc
+From: 27 February 2025 - To: 06 March 2025
+
+Total Time: 18 hrs 59 mins
+
+TypeScript    8 hrs 6 mins    ██████████▓░░░░░░░░░░░░░░   42.66 %
+Typst         3 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
+Rust          2 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
+JavaScript    59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Markdown      52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+```
+
 <!--END_SECTION:wakatime-->
 
 </div>
