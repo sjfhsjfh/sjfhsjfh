@@ -30,4 +30,7 @@
 
   <p>sjfh is <b>NOT</b> a programmer.</p> -->
 
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
+
 </div>
