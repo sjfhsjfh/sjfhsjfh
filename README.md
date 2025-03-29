@@ -35,14 +35,14 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 21 March 2025 - To: 28 March 2025
+From: 22 March 2025 - To: 29 March 2025
 
-Total Time: 17 hrs 6 mins
+Total Time: 15 hrs 44 mins
 
-Typst    8 hrs 31 mins   ████████████▒░░░░░░░░░░░░   49.83 %
-Rust     8 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   47.31 %
-Other    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-BibTeX   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Typst        8 hrs 1 min     ████████████▓░░░░░░░░░░░░   50.98 %
+Rust         7 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.83 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:wakatime-->
