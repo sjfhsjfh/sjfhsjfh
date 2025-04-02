@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 25 March 2025 - To: 01 April 2025
+From: 26 March 2025 - To: 02 April 2025
 
-Total Time: 15 hrs 59 mins
+Total Time: 16 hrs 2 mins
 
-Typst        7 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   46.12 %
-Rust         7 hrs 21 mins   ███████████▒░░░░░░░░░░░░░   45.99 %
-Bash         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Typst        7 hrs 22 mins   ███████████▒░░░░░░░░░░░░░   45.99 %
+Rust         7 hrs 21 mins   ███████████▒░░░░░░░░░░░░░   45.84 %
+Bash         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Astro        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:wakatime-->
