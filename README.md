@@ -35,14 +35,14 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 06 April 2025 - To: 13 April 2025
+From: 07 April 2025 - To: 14 April 2025
 
-Total Time: 22 hrs 13 mins
+Total Time: 26 hrs 37 mins
 
-Rust                         12 hrs 53 mins  ██████████████▒░░░░░░░░░░   57.97 %
-Typst                        5 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
-Astro                        47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-TypeScript                   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Rust                         14 hrs 49 mins  ██████████████░░░░░░░░░░░   55.67 %
+Typst                        7 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.73 %
+Astro                        47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Python                       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:wakatime-->
