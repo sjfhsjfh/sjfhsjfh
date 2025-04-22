@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 14 April 2025 - To: 21 April 2025
+From: 15 April 2025 - To: 22 April 2025
 
-Total Time: 13 hrs 1 min
+Total Time: 16 hrs 58 mins
 
-Typst        4 hrs 28 mins   ████████▓░░░░░░░░░░░░░░░░   34.34 %
-Rust         4 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.01 %
-C#           1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Markdown     51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-TypeScript   47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Typst        7 hrs 30 mins   ███████████░░░░░░░░░░░░░░   44.21 %
+Rust         5 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   30.17 %
+C#           1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Markdown     51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+TypeScript   47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:wakatime-->
