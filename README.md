@@ -35,14 +35,14 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 01 May 2025 - To: 08 May 2025
+From: 02 May 2025 - To: 09 May 2025
 
-Total Time: 20 hrs 30 mins
+Total Time: 15 hrs 44 mins
 
-Typst        11 hrs 32 mins  ██████████████░░░░░░░░░░░   56.25 %
-Rust         4 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
-Python       1 hr 48 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Typst        6 hrs 48 mins   ██████████▓░░░░░░░░░░░░░░   43.30 %
+Rust         4 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   28.94 %
+Python       1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:wakatime-->
