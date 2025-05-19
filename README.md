@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 11 May 2025 - To: 18 May 2025
+From: 12 May 2025 - To: 19 May 2025
 
-Total Time: 24 hrs 46 mins
+Total Time: 27 hrs 50 mins
 
-Typst                11 hrs 44 mins  ████████████░░░░░░░░░░░░░   47.43 %
-Rust                 10 hrs 46 mins  ███████████░░░░░░░░░░░░░░   43.51 %
-TypeScript           1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Markdown             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Jest Snapshot        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Typst                13 hrs 13 mins  ████████████░░░░░░░░░░░░░   47.52 %
+Rust                 12 hrs 4 mins   ███████████░░░░░░░░░░░░░░   43.35 %
+TypeScript           1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Markdown             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Bash                 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:wakatime-->
