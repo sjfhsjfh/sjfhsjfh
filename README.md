@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 02 June 2025 - To: 09 June 2025
+From: 03 June 2025 - To: 10 June 2025
 
-Total Time: 21 hrs 7 mins
+Total Time: 25 hrs 44 mins
 
-Python       5 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   28.31 %
-Typst        4 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
-Other        2 hrs 49 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Bash         2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Markdown     1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+Python       5 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
+Typst        5 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.76 %
+Rust         4 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
+Other        2 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+Bash         2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
 ```
 
 <!--END_SECTION:wakatime-->
