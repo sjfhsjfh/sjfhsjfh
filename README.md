@@ -35,14 +35,14 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 17 June 2025 - To: 24 June 2025
+From: 18 June 2025 - To: 25 June 2025
 
-Total Time: 28 hrs 36 mins
+Total Time: 32 hrs 38 mins
 
-Rust         26 hrs 40 mins  ███████████████████████▒░   93.25 %
-Fluent       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Typst        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Rust         28 hrs 6 mins   █████████████████████▓░░░   86.11 %
+Markdown     2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Fluent       37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Typst        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:wakatime-->
