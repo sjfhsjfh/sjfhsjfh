@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 23 June 2025 - To: 30 June 2025
+From: 24 June 2025 - To: 01 July 2025
 
-Total Time: 10 hrs 44 mins
+Total Time: 10 hrs 19 mins
 
-Markdown     4 hrs 43 mins   ███████████░░░░░░░░░░░░░░   43.96 %
-Rust         2 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
-Typst        1 hr 50 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-TypeScript   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Astro        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Markdown     4 hrs 43 mins   ███████████▒░░░░░░░░░░░░░   45.74 %
+Rust         2 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.97 %
+Typst        1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+TypeScript   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Astro        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:wakatime-->
