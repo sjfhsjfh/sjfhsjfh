@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 04 July 2025 - To: 11 July 2025
+From: 05 July 2025 - To: 12 July 2025
 
-Total Time: 5 hrs 35 mins
+Total Time: 4 hrs 58 mins
 
-Rust         2 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   39.91 %
-Typst        1 hr 37 mins    ███████▒░░░░░░░░░░░░░░░░░   28.98 %
-Markdown     41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Bash         37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-Other        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Rust         2 hrs 13 mins   ███████████▒░░░░░░░░░░░░░   44.80 %
+Typst        1 hr 37 mins    ████████░░░░░░░░░░░░░░░░░   32.53 %
+Bash         37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Markdown     24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:wakatime-->
