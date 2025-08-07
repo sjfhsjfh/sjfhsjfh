@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 30 July 2025 - To: 06 August 2025
+From: 31 July 2025 - To: 07 August 2025
 
-Total Time: 14 hrs 18 mins
+Total Time: 15 hrs 25 mins
 
-Typst        9 hrs 41 mins   █████████████████░░░░░░░░   67.74 %
-Markdown     2 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   19.44 %
-Other        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-CSV          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Python       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Typst        10 hrs 40 mins  █████████████████▒░░░░░░░   69.17 %
+Markdown     2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+Other        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Python       37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+CSV          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:wakatime-->
