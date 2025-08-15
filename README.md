@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
-Total Time: 18 hrs 38 mins
+Total Time: 16 hrs 24 mins
 
-Typst        15 hrs 9 mins   ████████████████████▒░░░░   81.30 %
-Python       1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Markdown     1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-Rust         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Typst        13 hrs 36 mins  ████████████████████▓░░░░   82.89 %
+Markdown     1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Python       1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Rust         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:wakatime-->
