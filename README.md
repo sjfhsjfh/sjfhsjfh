@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-Total Time: 17 hrs 55 mins
+Total Time: 13 hrs 44 mins
 
-C++          9 hrs 29 mins   █████████████▒░░░░░░░░░░░   52.91 %
-Markdown     2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Typst        2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Rust         1 hr 52 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-TypeScript   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+C++          7 hrs 50 mins   ██████████████▒░░░░░░░░░░   57.09 %
+Markdown     2 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Rust         1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+TypeScript   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Other        28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:wakatime-->
