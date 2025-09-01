@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 24 August 2025 - To: 31 August 2025
+From: 25 August 2025 - To: 01 September 2025
 
-Total Time: 6 hrs 43 mins
+Total Time: 5 hrs 50 mins
 
-Rust         2 hrs 6 mins    ████████░░░░░░░░░░░░░░░░░   31.43 %
-Markdown     1 hr 55 mins    ███████░░░░░░░░░░░░░░░░░░   28.53 %
-TypeScript   1 hr 3 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Bash         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-JavaScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Rust         1 hr 45 mins    ███████▓░░░░░░░░░░░░░░░░░   30.05 %
+Markdown     1 hr 36 mins    ███████░░░░░░░░░░░░░░░░░░   27.62 %
+TypeScript   1 hr 34 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
+Bash         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Public Key   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:wakatime-->
