@@ -35,14 +35,14 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 11 September 2025 - To: 18 September 2025
+From: 12 September 2025 - To: 19 September 2025
 
-Total Time: 3 hrs 23 mins
+Total Time: 3 hrs 18 mins
 
-Rust         2 hrs 13 mins   ████████████████▒░░░░░░░░   65.42 %
-Markdown     29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
-Typst        16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Rust         2 hrs 13 mins   ████████████████▓░░░░░░░░   67.08 %
+Markdown     24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+Typst        16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:wakatime-->
