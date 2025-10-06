@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 28 September 2025 - To: 05 October 2025
+From: 29 September 2025 - To: 06 October 2025
 
-Total Time: 11 hrs 8 mins
+Total Time: 9 hrs 39 mins
 
-Rust         5 hrs 32 mins   ████████████▒░░░░░░░░░░░░   49.79 %
-Vue.js       1 hr 45 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
-TypeScript   1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-Markdown     59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-Python       47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Rust         5 hrs 46 mins   ███████████████░░░░░░░░░░   59.84 %
+Vue.js       1 hr 40 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+Python       47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+TypeScript   42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Bash         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:wakatime-->
