@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-Total Time: 30 hrs 58 mins
+Total Time: 28 hrs 50 mins
 
-Python        12 hrs 35 mins  ██████████░░░░░░░░░░░░░░░   40.65 %
-Typst         8 hrs 40 mins   ███████░░░░░░░░░░░░░░░░░░   27.98 %
-Rust          5 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
-Other         1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Bash          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Python        9 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   32.24 %
+Typst         7 hrs 22 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
+Rust          4 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+Bash          2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+TypeScript    2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
 ```
 
 <!--END_SECTION:wakatime-->
