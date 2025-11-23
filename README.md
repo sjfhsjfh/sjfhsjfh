@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 15 November 2025 - To: 22 November 2025
+From: 16 November 2025 - To: 23 November 2025
 
-Total Time: 22 hrs 2 mins
+Total Time: 18 hrs 24 mins
 
-Python       7 hrs 30 mins   ████████▓░░░░░░░░░░░░░░░░   34.04 %
-Rust         5 hrs 32 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
-Markdown     2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Bash         1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-Other        1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Python       7 hrs 37 mins   ██████████▒░░░░░░░░░░░░░░   41.45 %
+Rust         2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Bash         1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Markdown     1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+Other        1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
 ```
 
 <!--END_SECTION:wakatime-->
