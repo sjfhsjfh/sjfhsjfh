@@ -35,14 +35,14 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 21 December 2025 - To: 28 December 2025
+From: 22 December 2025 - To: 29 December 2025
 
-Total Time: 19 hrs 28 mins
+Total Time: 20 hrs 48 mins
 
-Rust         6 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   31.91 %
-Typst        5 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   30.64 %
-Markdown     1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Other        57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Typst        5 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   28.06 %
+Rust         5 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
+Markdown     1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Python       1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
 ```
 
 <!--END_SECTION:wakatime-->
