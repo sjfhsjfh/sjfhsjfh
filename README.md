@@ -35,14 +35,14 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 26 December 2025 - To: 02 January 2026
+From: 27 December 2025 - To: 03 January 2026
 
-Total Time: 13 hrs 58 mins
+Total Time: 15 hrs 56 mins
 
-Rust         4 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.04 %
-Typst        1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-Python       1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-Java         51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Rust         6 hrs 18 mins   ██████████░░░░░░░░░░░░░░░   39.53 %
+Python       1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+Typst        1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Java         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 ```
 
 <!--END_SECTION:wakatime-->
