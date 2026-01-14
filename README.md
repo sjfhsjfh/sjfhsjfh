@@ -35,15 +35,15 @@
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 06 January 2026 - To: 13 January 2026
+From: 07 January 2026 - To: 14 January 2026
 
-Total Time: 50 hrs 3 mins
+Total Time: 41 hrs 4 mins
 
-Java              19 hrs 44 mins  ██████████░░░░░░░░░░░░░░░   39.43 %
-Rust              12 hrs 27 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.87 %
-Svelte            3 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Typst             2 hrs 52 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-TypeScript        2 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Java              15 hrs 35 mins  █████████▒░░░░░░░░░░░░░░░   37.94 %
+Rust              9 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+Svelte            3 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+TypeScript        2 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Typst             2 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:wakatime-->
