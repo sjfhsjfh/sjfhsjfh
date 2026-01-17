@@ -1,0 +1,45 @@
+name: Update WakaTime Total
+
+on:
+  schedule:
+    - cron: "15 0 * * *"   # 每天 00:15 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        run: |
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "${HOME}/.cargo/bin" >> $GITHUB_PATH
+
+      - name: Update WakaTime total
+        run: |
+          ./update_wakatime.py \
+            --start-marker "<!--START_SECTION:wakatime-totel-->" \
+            --end-marker "<!--END_SECTION:wakatime-totel-->" \
+            --readme README.md \
+            --format "Total time spent in editors (WakaTime): {total}"
+
+      - name: Commit & push changes
+        env:
+          GIT_AUTHOR_NAME: github-actions
+          GIT_AUTHOR_EMAIL: github-actions@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions
+          GIT_COMMITTER_EMAIL: github-actions@users.noreply.github.com
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+          else
+            git add README.md
+            git commit -m "chore: update WakaTime total"
+            git push
+          fi

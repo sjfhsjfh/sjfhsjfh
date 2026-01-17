@@ -40,6 +40,11 @@ I may code in other languages but would definately generate <a href="https://git
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjfhsjfh&theme=dark) -->
 
 <div align="center">
+
+<!--START_SECTION:wakatime-totel-->
+Total time spent in editors (WakaTime): 1,420 hrs 23 mins
+<!--END_SECTION:wakatime-totel-->
+
 <!--START_SECTION:wakatime-->
 
 ```typc
