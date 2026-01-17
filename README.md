@@ -48,15 +48,14 @@ Total time spent in editors (WakaTime): 1,420 hrs 23 mins
 <!--START_SECTION:wakatime-->
 
 ```typc
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Total Time: 22 hrs 9 mins
+Total Time: 21 hrs 23 mins
 
-Rust         11 hrs 41 mins  █████████████▒░░░░░░░░░░░   52.73 %
-Java         2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Typst        2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-TypeScript   1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Rust         11 hrs 33 mins  █████████████▓░░░░░░░░░░░   54.01 %
+Typst        2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+TypeScript   1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Java         1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
 ```
 
 <!--END_SECTION:wakatime-->
