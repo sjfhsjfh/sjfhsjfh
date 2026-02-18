@@ -52,10 +52,10 @@ From: 10 February 2026 - To: 17 February 2026
 
 Total Time: 17 hrs 29 mins
 
-Markdown     6 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   37.54 %
-Typst        2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-TypeScript   1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Astro        1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Markdown     6 hrs 33 mins         █████████▒░░░░░░░░░░░░░░░   37.54 %
+Typst        2 hrs 10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+TypeScript   1 hr 39 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Astro        1 hr 2 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 ```
 
 <!--END_SECTION:wakatime-->
