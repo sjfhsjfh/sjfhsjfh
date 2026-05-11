@@ -42,7 +42,7 @@ I may code in other languages but would definately generate <a href="https://git
 <div align="center">
 
 <!--START_SECTION:wakatime-totel-->
-Total time spent in editors (WakaTime): 1,420 hrs 23 mins
+Total time spent in editors (WakaTime): 1,808 hrs 10 mins
 <!--END_SECTION:wakatime-totel-->
 
 <!--START_SECTION:wakatime-->

@@ -5,6 +5,7 @@
 # ///
 
 """Fetch WakaTime share JSON and update README marker block with grand_total.human_readable_total."""
+
 from __future__ import annotations
 
 import argparse
@@ -35,7 +36,9 @@ def fetch_total(url: str, timeout: float = 10.0) -> str:
     try:
         return data["data"]["grand_total"]["human_readable_total"]
     except Exception as exc:  # noqa: BLE001
-        raise KeyError("Missing data.grand_total.human_readable_total in response") from exc
+        raise KeyError(
+            "Missing data.grand_total.human_readable_total in response"
+        ) from exc
 
 
 def replace_block(text: str, start: str, end: str, new_line: str) -> str:
