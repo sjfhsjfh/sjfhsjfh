@@ -23,7 +23,7 @@ Adventure!
   <img src="https://img.shields.io/badge/-Java-E1E1E1?style=flat&logoColor=ffffff">
 </div>
 
-I may code in other languages but would definately generate <a href="https://github.com/trekhleb/state-of-the-art-shitcode">shitcode</a>
+I may code in other languages but would definitely generate <a href="https://github.com/trekhleb/state-of-the-art-shitcode">shitcode</a>
 
 <h3>I'm also familiar with...</h3>
 
