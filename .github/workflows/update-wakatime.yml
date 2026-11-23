@@ -22,6 +22,8 @@ jobs:
           echo "${HOME}/.cargo/bin" >> $GITHUB_PATH
 
       - name: Update WakaTime total
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
           ./update_wakatime.py \
             --start-marker "<!--START_SECTION:wakatime-totel-->" \

@@ -4,17 +4,21 @@
 # dependencies = ["requests>=2.32"]
 # ///
 
-"""Fetch WakaTime share JSON and update README marker block with grand_total.human_readable_total."""
+"""Fetch the all-time total from Wakapi and write it into a README marker block."""
 
 from __future__ import annotations
 
 import argparse
+import base64
 import json
+import os
 import re
 from pathlib import Path
 from typing import Any
 
 import requests
+
+DEFAULT_BASE = "https://wakapi.sjfh.top/api"
 
 
 def parse_json_maybe_jsonp(text: str) -> Any:
@@ -29,16 +33,21 @@ def parse_json_maybe_jsonp(text: str) -> Any:
     raise ValueError("Response is neither JSON nor JSONP")
 
 
-def fetch_total(url: str, timeout: float = 10.0) -> str:
-    resp = requests.get(url, timeout=timeout)
-    resp.raise_for_status()
-    data = parse_json_maybe_jsonp(resp.text)
-    try:
-        return data["data"]["grand_total"]["human_readable_total"]
-    except Exception as exc:  # noqa: BLE001
-        raise KeyError(
-            "Missing data.grand_total.human_readable_total in response"
-        ) from exc
+def fetch_total(base: str, key: str, timeout: float = 30.0) -> str:
+    url = f"{base.rstrip('/')}/compat/wakatime/v1/users/current/stats/all_time"
+    # Wakapi wants `Basic base64(key)` — no user, no colon, unlike HTTP Basic.
+    auth = base64.b64encode(key.encode()).decode()
+    resp = requests.get(url, headers={"Authorization": f"Basic {auth}"}, timeout=timeout)
+    if resp.status_code != 200:
+        raise SystemExit(f"{url} -> HTTP {resp.status_code}: {resp.text[:300]}")
+    body = parse_json_maybe_jsonp(resp.text).get("data") or {}
+    # Wakapi answers a flat shape; WakaTime nests the same numbers under grand_total.
+    grand = body.get("grand_total")
+    total = grand.get("human_readable_total") if isinstance(grand, dict) else None
+    total = total or body.get("human_readable_total")
+    if not total:
+        raise SystemExit(f"no human_readable_total in response: {resp.text[:300]}")
+    return total
 
 
 def replace_block(text: str, start: str, end: str, new_line: str) -> str:
@@ -55,9 +64,9 @@ def replace_block(text: str, start: str, end: str, new_line: str) -> str:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
-        "--url",
-        default="https://wakatime.com/share/@81040334-6dc6-4aad-a76c-3863c8b0c02e/d2e354b3-4097-4a04-b581-1b1ab65817a5.json",
-        help="WakaTime share JSON/JSONP URL",
+        "--api-base-url",
+        default=os.environ.get("WAKATIME_API_BASE_URL", DEFAULT_BASE),
+        help="Wakapi API root (no trailing /compat)",
     )
     parser.add_argument(
         "--readme",
@@ -82,7 +91,11 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    total = fetch_total(args.url)
+    key = os.environ.get("WAKATIME_API_KEY")
+    if not key:
+        raise SystemExit("WAKATIME_API_KEY is not set")
+
+    total = fetch_total(args.api_base_url, key)
     line = args.format.format(total=total)
     readme_text = args.readme.read_text(encoding="utf-8")
     updated = replace_block(readme_text, args.start_marker, args.end_marker, line)
