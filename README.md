@@ -50,13 +50,13 @@ Total time spent in editors (WakaTime): 2612 hrs 24 mins
 ```typc
 From: 18 November 2026 - To: 25 November 2026
 
-Total Time: 6 hrs 42 mins
+Total Time: 8 hrs 9 mins
 
-Unknown      2 hrs 23 mins         █████████░░░░░░░░░░░░░░░░   35.63 %
-Rust         1 hrs 19 mins         █████░░░░░░░░░░░░░░░░░░░░   19.58 %
-Markdown     1 hrs 10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-Bash         0 hrs 34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Python       0 hrs 29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Unknown      2 hrs 50 mins         ████████▓░░░░░░░░░░░░░░░░   34.85 %
+Markdown     1 hrs 26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+Rust         1 hrs 19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
+Python       0 hrs 44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+Typst        0 hrs 39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
 ```
 
 <!--END_SECTION:wakatime-->
